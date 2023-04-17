@@ -2,8 +2,8 @@ import { readFileSync } from "fs";
 import { join } from "path";
 import { cwd } from "process";
 import { Logger } from "winston";
-import { PLUGIN_MANIFEST } from "./constants";
-import logger from "./logger";
+import { PLUGIN_MANIFEST } from "./constants.js";
+import logger from "./logger.js";
 
 type JSONRPCMethods =
   | "Flow.Launcher.ChangeQuery"

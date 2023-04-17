@@ -1,6 +1,7 @@
 {
 	"name": "flow-launcher-plugin-template-node",
 	"description": "Flow Launcher plugin template for Node.js",
+	"type": "module",
 	"main": "./dist/main.js",
 	"scripts": {
 		"dev": "tsc --watch",
@@ -20,9 +21,10 @@
 		"husky": "^8.0.0",
 		"lint-staged": "^13.1.2",
 		"prettier": "^2.8.4",
-		"typescript": "^4.9.4"
+		"typescript": "5.0.4"
 	},
 	"dependencies": {
+		"clipboardy": "^3.0.0",
 		"open": "^8.4.0",
 		"winston": "^3.8.2",
 		"zod": "^3.20.6"

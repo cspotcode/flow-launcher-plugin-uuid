@@ -1,12 +1,12 @@
 {
-  "ID": "890a6a95-5d36-4fab-bce1-b4c3f1239098",
-  "ActionKeyword": "npm",
-  "Name": "Search NPM",
-  "Description": "Search NPM packages",
-  "Author": "Joël Kuijper",
+  "ID": "ff621f84-60aa-4ea0-a945-7eea7d2d828e",
+  "ActionKeyword": "uuid",
+  "Name": "Generate UUID",
+  "Description": "Generate UUIDs in different formats",
+  "Author": "Andrew Bradley",
   "Version": "0.0.2",
   "Language": "TypeScript",
   "ExecuteFileName": "./dist/main.js",
-  "Website": "https://github.com/Joehoel/flow-launcher-plugin-template-node",
-  "IcoPath": "./assets/npm.png"
+  "Website": "https://github.com/cspotcode/flow-launcher-plugin-uuid",
+  "IcoPath": "./assets/icon.png"
 }
