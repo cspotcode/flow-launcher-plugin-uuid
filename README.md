@@ -1,3 +1,11 @@
+# UUID generator plugin for Flow launcher
+
+Type "uuid" into flow launcher and get a random UUID.  2 options: copy it to the clipboard with hyphens, and without hyphens.
+
+![](https://user-images.githubusercontent.com/376504/255298528-53c5aed1-7504-44a3-ab21-c9e28f6118c0.png)
+
+---
+
 # Flow Launcher Plugin Template for Node
 
 This repository contains a template for creating a [Flow Launcher](https://www.flowlauncher.com/) plugin using the [Node.js](https://nodejs.org/en/) runtime.
